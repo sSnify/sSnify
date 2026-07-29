@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently learning java and create minecraft plugins and I have expperience with python as well
+I'm currently learning Java and developing Minecraft plugins. I also have experience with Python and backend development for Minecraft servers.
 
 
 ## 🌐 Socials:
